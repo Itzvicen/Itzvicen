@@ -1,8 +1,9 @@
-# About me 🤗  
+# About me   
 
 ### 👋 Hi, I’m @Itzvicen
+- ⌨️ I´m a Microcomputer Systems and Networks Technician
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Web Development at @CPIFP Nuevo
+- 📚 I’m currently learning Web Development at @CPIFP-29020231
 - 📫 You can reach me in https://social.vicen.me
 
 ## 💻 Known technologies
