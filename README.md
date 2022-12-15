@@ -2,9 +2,9 @@
 
 ### 👋 Hi, I’m @Itzvicen
 - ⌨️ I´m a Microcomputer Systems and Networks Technician
-- 👨🏼‍💼 CEO & Founder Neatly Cloud LLC(https://neatly.es)
+- 📚 I’m currently learning Web Development at @CPIFP-Campanillas
+- 👨🏼‍💼 CEO & Founder ![Neatly Cloud LLC](https://neatly.es)
 - 👀 I’m interested in Front-End Development
-- 📚 I’m currently learning Web Development at @CPIFP-29020231
 - 📫 You can reach me in https://vicen.me
 
 ## 💻 Known technologies
