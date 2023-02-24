@@ -3,7 +3,7 @@
 ### 👋 Hi, I’m @Itzvicen
 - ⌨️ I´m a Microcomputer Systems and Networks Technician
 - 📚 I’m currently learning Web Development at @CPIFP-Campanillas
-- 👀 I’m interested in Front-End Development
+- 👀 I’m interested in FullStack Development
 - 📫 You can reach me in https://vicen.me
 
 ## 💻 Known technologies
