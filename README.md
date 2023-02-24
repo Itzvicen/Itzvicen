@@ -3,7 +3,6 @@
 ### 👋 Hi, I’m @Itzvicen
 - ⌨️ I´m a Microcomputer Systems and Networks Technician
 - 📚 I’m currently learning Web Development at @CPIFP-Campanillas
-- 👨🏼‍💼 CEO & Founder [Neatly Cloud LLC](https://neatly.es)
 - 👀 I’m interested in Front-End Development
 - 📫 You can reach me in https://vicen.me
 
