@@ -1,6 +1,6 @@
 # About me   
 
-### 👋 Hi, I’m @Itzvicen
+### 👋 Hi, I’m Vicente Santiago
 - ⌨️ I´m a Microcomputer Systems and Networks Technician
 - 📚 I’m currently learning Web Development at @CPIFP-Campanillas
 - 👀 I’m interested in FullStack Development
